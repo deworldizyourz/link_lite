@@ -4,4 +4,4 @@ Shortening and rerouting
 
 #### License
 
-mit
+mit# link_lite
