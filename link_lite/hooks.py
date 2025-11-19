@@ -4,6 +4,11 @@ app_publisher = "carl"
 app_description = "Shortening and rerouting"
 app_email = "c.lokko.gh@gmail.com"
 app_license = "mit"
+
+website_path_resolver = "link_lite.utils.path_resolver"
+
+
+
 # required_apps = []
 
 # Includes in <head>
